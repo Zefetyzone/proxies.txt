@@ -1,9 +1,22 @@
-Canada	Ontario - Brampton	Rogers Communications Canada ...	154.22.0.184	36617	DVSwk8uuf8	Er0Dojt
-Canada	Ontario - Toronto	Bell Canada	154.22.0.184	36617	DVS5b5ho3u	tZmMvY3
-Canada	Ontario - Pickering	Bell Canada	154.22.0.181	41337	DVS1y7yei9	XB8VVks
-Canada	Ontario - Toronto	Bell Canada	154.22.0.184	36617	DVS5fdy88i	3HScUhW
-Canada	Ontario - Mississauga	Bell Canada	172.93.106.93	46369	DVSvjqms6i	6uRSPRK
-Canada	Ontario - Newmarket	Altima Telecom	172.93.106.93	46369	DVSebrsncf	xkj3nyT
-Canada	Quebec - Montreal	Le Groupe Videotron Ltee	172.93.103.121	45877	DVSrlqnpu1	lZYmbmg
-Canada	Ontario - Toronto	Bell Canada	154.22.0.179	44003	DVSj3cv29c	TlAKgMa
-Canada	Ontario - Toronto	DataCamp Limited	172.93.103.121	45877	DVSt9x0e6p	SgjZZHZ
+[
+  {
+    "country": "Canada",
+    "region": "Ontario - Brampton",
+    "isp": "Rogers Communications",
+    "host": "154.22.0.184",
+    "port": "36617",
+    "user": "DVSwk8uuf8",
+    "pass": "Er0Dojt",
+    "proto": "socks5"
+  },
+  {
+    "country": "Canada",
+    "region": "Ontario - Toronto",
+    "isp": "Bell Canada",
+    "host": "154.22.0.184",
+    "port": "36617",
+    "user": "DVS5b5ho3u",
+    "pass": "tZmMvY3",
+    "proto": "socks5"
+  }
+]
